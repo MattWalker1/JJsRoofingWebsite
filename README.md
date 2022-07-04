@@ -1,0 +1,5 @@
+# JJsRoofingWebsite
+Creating a website for a private client, a local roofing/exterior company.
+
+Utilizing .gitignore to remove a large video file for the main landing page - need to add this via GIT LFS.
+-- Download all video files from the dropbox link ( *add dropbox* )
