@@ -150,7 +150,7 @@ ul{
 	background-color: #ffffff;
 }
 
-/*responsive*/
+/*performance cmds*/
 @media(max-width: 767px){
   .footer-col{
     width: 50%;
